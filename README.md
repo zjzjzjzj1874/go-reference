@@ -51,6 +51,57 @@
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) -- 推荐指数(⭐️)
 - [The CL author’s guide to getting through code review](https://google.github.io/eng-practices/review/developer/)
 
+## Quick Reference
+- [Github](https://github.com/jaywcjlove/reference) -- 推荐指数(⭐️⭐️⭐️⭐️⭐️)
+- [Quick Reference](https://wangchujiang.com/reference/index.html) -- 推荐指数(⭐️⭐️⭐️⭐️⭐️)
 
-### 第三方收集
+### Normal
+- [GitLab CI/CD备忘清单](https://wangchujiang.com/reference/docs/gitlab-ci.html)
+- [FFmpeg备忘清单](https://wangchujiang.com/reference/docs/ffmpeg.html)
+- [Ansible备忘清单](https://wangchujiang.com/reference/docs/ansible.html)
+- [C#备忘清单](https://wangchujiang.com/reference/docs/cs.html)
+- [Vue3备忘清单](https://wangchujiang.com/reference/docs/vue.html)
+
+### program
+- [bash备忘清单](https://wangchujiang.com/reference/docs/bash.html)
+- [C备忘清单](https://wangchujiang.com/reference/docs/c.html)
+- [C++备忘清单](https://wangchujiang.com/reference/docs/cpp.html)
+- [Docker备忘清单](https://wangchujiang.com/reference/docs/docker.html)
+- [Dockerfile备忘清单](https://wangchujiang.com/reference/docs/dockerfile.html) -- 推荐指数(⭐️⭐️⭐️)
+- [Django备忘清单](https://wangchujiang.com/reference/docs/gjiango.html)
+- [GraphQL备忘清单](https://wangchujiang.com/reference/docs/graphql.html)
+- [INI备忘清单](https://wangchujiang.com/reference/docs/ini.html) -- 推荐指数(⭐️)
+- [Kubernetes备忘清单](https://wangchujiang.com/reference/docs/kubernetes.html) -- 推荐指数(⭐️)
+- [Python备忘清单](https://wangchujiang.com/reference/docs/python.html) -- 推荐指数(⭐️)
+- [Rust备忘清单](https://wangchujiang.com/reference/docs/rust.html)
+- [Yaml备忘清单](https://wangchujiang.com/reference/docs/yaml.html) -- 推荐指数(⭐️⭐️⭐️)
+
+### tool
+- [Vim备忘清单](https://wangchujiang.com/reference/docs/vim.html) -- 推荐指数(⭐️⭐️⭐️)
+- [Nginx备忘清单](https://wangchujiang.com/reference/docs/nginx.html) -- 推荐指数(⭐️️)
+
+### CMD
+- [Awk备忘清单](https://wangchujiang.com/reference/docs/awk.html) -- 推荐指数(⭐️⭐️⭐️)
+- [Curl备忘清单](https://wangchujiang.com/reference/docs/curl.html) -- 推荐指数(⭐️️)
+- [Cron备忘清单](https://wangchujiang.com/reference/docs/cron.html) -- 推荐指数(⭐️️)
+- [Make备忘清单](https://wangchujiang.com/reference/docs/make.html) -- 推荐指数(⭐️️)
+- [Chmod备忘清单](https://wangchujiang.com/reference/docs/chmod.html) -- 推荐指数(⭐️️)
+- [GDB备忘清单](https://wangchujiang.com/reference/docs/gdb.html) -- 推荐指数(⭐️️)
+- [Git备忘清单](https://wangchujiang.com/reference/docs/git.html) -- 推荐指数(⭐⭐️⭐️⭐️️) -- 个人代码统计很有用
+
+### DB
+- [MySQL备忘清单](https://wangchujiang.com/reference/docs/mysql.html) -- 推荐指数(⭐️⭐️⭐️)
+- [MongoDB备忘清单](https://wangchujiang.com/reference/docs/mongodb.html) -- 推荐指数(⭐️⭐️⭐️)
+- [Oracle备忘清单](https://wangchujiang.com/reference/docs/oracle.html)
+- [PostgreSQL备忘清单](https://wangchujiang.com/reference/docs/postgres.html) -- 推荐指数(️⭐️)
+- [Redis备忘清单](https://wangchujiang.com/reference/docs/redis.html) -- 推荐指数(⭐️⭐️⭐️)
+
+### Other
+- [MIME类型备忘清单](https://wangchujiang.com/reference/docs/mime.html)
+- [GitLab CI/CD备忘清单](https://wangchujiang.com/reference/docs/gitlab-ci.html)
+- [HTTP状态码备忘清单](https://wangchujiang.com/reference/docs/http-status-code.html)
+- [Emoji备忘清单](https://wangchujiang.com/reference/docs/emoji.html) -- :carrot:
+
+
+## 第三方收集
 - [Go阅读清单](https://github.com/qichengzx/gopher-reading-list-zh_CN)
