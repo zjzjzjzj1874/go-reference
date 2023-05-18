@@ -105,3 +105,4 @@
 
 ## 第三方收集
 - [Go阅读清单](https://github.com/qichengzx/gopher-reading-list-zh_CN)
+- [Notions使用](https://www.notion.so/Getting-Started-3ac5339eb48d47dd869525c22b51d8c4)
