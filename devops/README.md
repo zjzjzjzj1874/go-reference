@@ -11,3 +11,6 @@
 ### docsify
 * [Docsify In Gtihub](https://github.com/docsifyjs/docsify/)
 * [官网](https://docsify.js.org/#/)
+
+### devops-engineers
+* [become-devops-engineer](https://devopscube.com/become-devops-engineer/)
