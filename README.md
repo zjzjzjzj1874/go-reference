@@ -30,6 +30,9 @@
 - [基于Golang轻量级TCP并发服务器框架 - zinx](https://github.com/aceld/zinx)
 - [TestComments](https://github.com/golang/go/wiki/TestComments) -- 推荐指数(⭐️⭐️⭐️)
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) -- 推荐指数(⭐️⭐️⭐️)
+- [golang-notes - Go源码分析(中文)](https://github.com/cch123/golang-notes) -- 推荐指数(⭐️⭐️⭐️)
+- [Monkey patching in Go - 使用该方法可替换某些函数](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️️⭐️)
+- [SuperMonkey Monkey的子集,替换函数时可以使用](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️⭐️⭐️⭐️)
 
 ## Other
 - [Go Proverbs](https://go-proverbs.github.io/) -- 推荐指数(⭐️⭐️⭐️️⭐️)
