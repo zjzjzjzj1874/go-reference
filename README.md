@@ -100,6 +100,10 @@
 - [PostgreSQL备忘清单](https://wangchujiang.com/reference/docs/postgres.html) -- 推荐指数(️⭐️)
 - [Redis备忘清单](https://wangchujiang.com/reference/docs/redis.html) -- 推荐指数(⭐️⭐️⭐️)
 
+### RPC
+- [用subset算法限制连接池中的连接数量](https://xargin.com/limiting-conn-wih-subset/)
+- [Google 用了十年的subset算法被换掉了](https://xargin.com/limiting-conn-wih-subset/)
+
 ### Other
 - [MIME类型备忘清单](https://wangchujiang.com/reference/docs/mime.html)
 - [GitLab CI/CD备忘清单](https://wangchujiang.com/reference/docs/gitlab-ci.html)
