@@ -80,6 +80,9 @@
 - [Rust备忘清单](https://wangchujiang.com/reference/docs/rust.html)
 - [Yaml备忘清单](https://wangchujiang.com/reference/docs/yaml.html) -- 推荐指数(⭐️⭐️⭐️)
 
+### 优秀开源项目
+* [高性能Go内存缓存](https://github.com/dgraph-io/ristretto)
+
 ### tool
 - [Vim备忘清单](https://wangchujiang.com/reference/docs/vim.html) -- 推荐指数(⭐️⭐️⭐️)
 - [Nginx备忘清单](https://wangchujiang.com/reference/docs/nginx.html) -- 推荐指数(⭐️️)
