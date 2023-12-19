@@ -33,6 +33,7 @@
 - [golang-notes - Go源码分析(中文)](https://github.com/cch123/golang-notes) -- 推荐指数(⭐️⭐️⭐️)
 - [Monkey patching in Go - 使用该方法可替换某些函数](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️️⭐️)
 - [SuperMonkey Monkey的子集,替换函数时可以使用](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️⭐️⭐️⭐️)
+- [QR Codes in your terminal - 基于Terminal的二维码生成器](https://github.com/mdp/qrterminal) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
 
 ## Other
 - [Go Proverbs](https://go-proverbs.github.io/) -- 推荐指数(⭐️⭐️⭐️️⭐️)
@@ -111,7 +112,7 @@
 - [MIME类型备忘清单](https://wangchujiang.com/reference/docs/mime.html)
 - [GitLab CI/CD备忘清单](https://wangchujiang.com/reference/docs/gitlab-ci.html)
 - [HTTP状态码备忘清单](https://wangchujiang.com/reference/docs/http-status-code.html)
-- [Emoji备忘清单](https://wangchujiang.com/reference/docs/emoji.html) -- :carrot:
+- [Emoji表情备忘清单](https://wangchujiang.com/reference/docs/emoji.html) -- :carrot:
 
 
 ## 第三方收集
