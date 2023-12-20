@@ -34,6 +34,7 @@
 - [Monkey patching in Go - 使用该方法可替换某些函数](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️️⭐️)
 - [SuperMonkey Monkey的子集,替换函数时可以使用](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️⭐️⭐️⭐️)
 - [QR Codes in your terminal - 基于Terminal的二维码生成器](https://github.com/mdp/qrterminal) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
+- [Share Memory SHM - 基于golang的共享内存](https://github.com/hidez8891/shm) -- 推荐指数(⭐️⭐️)
 
 ## Other
 - [Go Proverbs](https://go-proverbs.github.io/) -- 推荐指数(⭐️⭐️⭐️️⭐️)
