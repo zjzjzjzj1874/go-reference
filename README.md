@@ -121,3 +121,37 @@
 ## 第三方收集
 - [Go阅读清单](https://github.com/qichengzx/gopher-reading-list-zh_CN)
 - [Notions使用](https://www.notion.so/Getting-Started-3ac5339eb48d47dd869525c22b51d8c4)
+
+
+## 生成changelog
+
+这里我们使用 [git-chglog](https://github.com/git-chglog/git-chglog/)来创建
+
+- 安装
+```shell
+go install github.com/git-chglog/git-chglog/cmd/git-chglog@latest
+```
+
+- 创建配置文件（进入一个项目）
+```shell
+git-chglog --init
+```
+
+- 创建tag
+
+```shell
+git tag v0.1.0
+```
+
+-生成changelog
+```shell
+git-chglog -o CHANGELOG.md
+```
+
+###
+其他相关工具：
+- [conventional-changelog-cli](https://github.com/conventional-changelog/conventional-changelog-cli)
+- [conventional-changelog-core](https://github.com/conventional-changelog/conventional-changelog-core)
+- [conventional-changelog-writer](https://github.com/conventional-changelog/conventional-changelog-writer)
+- [conventional-changelog-angular](https://github.com/conventional-changelog/conventional-changelog-angular)
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
