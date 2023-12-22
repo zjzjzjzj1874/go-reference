@@ -35,6 +35,8 @@
 - [SuperMonkey Monkey的子集,替换函数时可以使用](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️⭐️⭐️⭐️)
 - [QR Codes in your terminal - 基于Terminal的二维码生成器](https://github.com/mdp/qrterminal) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
 - [Share Memory SHM - 基于golang的共享内存](https://github.com/hidez8891/shm) -- 推荐指数(⭐️⭐️)
+- [tu-lang(凸)是一种编程语言，旨在创造一种非常简单高效的-零依赖-语言(防秃)](https://github.com/tu-lang/tu) -- 推荐指数(⭐️⭐️)
+- SQL Parse - SQL解析器[vitess-sqlparser](https://github.com/blastrain/vitess-sqlparser) && [sqlparser](https://github.com/xwb1989/sqlparser)
 
 ## Other
 - [Go Proverbs](https://go-proverbs.github.io/) -- 推荐指数(⭐️⭐️⭐️️⭐️)
