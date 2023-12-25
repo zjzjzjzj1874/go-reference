@@ -122,6 +122,28 @@
 - [Go阅读清单](https://github.com/qichengzx/gopher-reading-list-zh_CN)
 - [Notions使用](https://www.notion.so/Getting-Started-3ac5339eb48d47dd869525c22b51d8c4)
 
+### [oh my zsh](https://ohmyzsh.com)
+
+#### [plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
+- [zsh-completions](https://github.com/zsh-users/zsh-completions)
+- [tmux](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/tmux)，[官网](https://github.com/tmux/tmux)
+ 
+  | Alias | Command               | Description                                           |
+  |--------|-----------------------|-------------------------------------------------------|
+  | ta     | tmux attach -t	       | Attach new tmux session to already running named session |
+  | tad    | tmux attach -d -t	    |    Detach named tmux session                                |
+  | ts     | tmux new-session -s   |     Create a new named tmux session                         |
+  | tl     | tmux list-sessions    |     Displays a list of running tmux sessions                |
+  | tksv   | tmux kill-server	     |   Terminate all running tmux sessions                       |
+  | tkss   | tmux kill-session -t  |     Terminate named running tmux session                    |
+
+  	    
+  	    
+
+  	    
 
 ## 生成changelog
 
