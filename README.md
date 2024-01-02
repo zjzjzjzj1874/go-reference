@@ -26,17 +26,18 @@
 - [package name](https://blog.golang.org/package-names) -- 推荐指数(⭐️⭐️⭐️)
 
 ## Golang
-- [Contribution Guide](https://go.dev/doc/contribute#commit_messages)
-- [基于Golang轻量级TCP并发服务器框架 - zinx](https://github.com/aceld/zinx)
-- [TestComments](https://github.com/golang/go/wiki/TestComments) -- 推荐指数(⭐️⭐️⭐️)
-- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) -- 推荐指数(⭐️⭐️⭐️)
-- [golang-notes - Go源码分析(中文)](https://github.com/cch123/golang-notes) -- 推荐指数(⭐️⭐️⭐️)
-- [Monkey patching in Go - 使用该方法可替换某些函数](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️️⭐️)
-- [SuperMonkey Monkey的子集,替换函数时可以使用](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️⭐️⭐️⭐️)
+- [PowerWechat：基于Golang的WeChatSDK，支持小程序、微信支付、企业微信、公众号等全微信生态](https://github.com/ArtisanCloud/PowerWeChat?tab=readme-ov-file) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
 - [QR Codes in your terminal - 基于Terminal的二维码生成器](https://github.com/mdp/qrterminal) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
+- [golang-notes - Go源码分析(中文)](https://github.com/cch123/golang-notes) -- 推荐指数(⭐️⭐️⭐️⭐️)
+- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) -- 推荐指数(⭐️⭐️⭐️)
+- [Monkey patching in Go - 使用该方法可替换某些函数](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️️⭐️)
+- [SuperMonkey Monkey的子集,替换函数时可以使用](https://github.com/bouk/monkey) -- 推荐指数(⭐️⭐️⭐️)
+- [TestComments](https://github.com/golang/go/wiki/TestComments) -- 推荐指数(⭐️⭐️⭐️)
+- [基于Golang轻量级TCP并发服务器框架 - zinx](https://github.com/aceld/zinx)推荐指数(⭐️⭐️)
 - [Share Memory SHM - 基于golang的共享内存](https://github.com/hidez8891/shm) -- 推荐指数(⭐️⭐️)
 - [tu-lang(凸)是一种编程语言，旨在创造一种非常简单高效的-零依赖-语言(防秃)](https://github.com/tu-lang/tu) -- 推荐指数(⭐️⭐️)
 - SQL Parse - SQL解析器[vitess-sqlparser](https://github.com/blastrain/vitess-sqlparser) && [sqlparser](https://github.com/xwb1989/sqlparser)
+- [Contribution Guide](https://go.dev/doc/contribute#commit_messages)
 
 ## Other
 - [Go Proverbs](https://go-proverbs.github.io/) -- 推荐指数(⭐️⭐️⭐️️⭐️)
