@@ -29,6 +29,7 @@
 - [PowerWechat：基于Golang的WeChatSDK，支持小程序、微信支付、企业微信、公众号等全微信生态](https://github.com/ArtisanCloud/PowerWeChat?tab=readme-ov-file) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
 - [Golang异步队列-Simple, reliable, and efficient distributed task queue in Go](https://github.com/hibiken/asynq) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
 - [QR Codes in your terminal - 基于Terminal的二维码生成器](https://github.com/mdp/qrterminal) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
+- [Go令牌桶限流器 - Efficient token-bucket-based rate limiter package.](https://github.com/juju/ratelimit) -- 推荐指数(⭐️⭐️⭐️️️⭐️️️⭐️️)
 - [golang-notes - Go源码分析(中文)](https://github.com/cch123/golang-notes) -- 推荐指数(⭐️⭐️⭐️⭐️)
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) -- 推荐指数(⭐️⭐️⭐️)
 - [TestComments](https://github.com/golang/go/wiki/TestComments) -- 推荐指数(⭐️⭐️⭐️)
